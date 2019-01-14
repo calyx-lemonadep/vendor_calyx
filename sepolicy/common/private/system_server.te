@@ -1,3 +1,4 @@
 # Use HALs
 hal_client_domain(system_server, hal_lineage_fod)
 hal_client_domain(system_server, hal_lineage_powershare)
+hal_client_domain(system_server, hal_lineage_touch)
